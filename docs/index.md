@@ -1,6 +1,6 @@
 # Brand Integration
 
-We are at the cutting edge of technology using the latest techniques to support
+1 We are at the cutting edge of technology using the latest techniques to support
 the business vision.
 
 If you are a exceptional technology professional and are interested in working
