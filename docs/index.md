@@ -1,3 +1,8 @@
+---
+layout: home
+---
+
+
 # Brand Integration
 
 1 We are at the cutting edge of technology using the latest techniques to support
